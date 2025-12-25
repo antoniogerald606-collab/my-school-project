@@ -2,6 +2,11 @@ Name: Mwansa Gerald
 Student number: 2023051780
 End of term test 
 
+
+
+
+
+
 python 
 #create variables for student information 
 #Variable to store the student’s name as a string ="Mwansa Gerald 
