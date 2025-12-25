@@ -1,18 +1,14 @@
-# my-school-project#include <stdio.h>
-int main(){
+python 
+#create variables for student information 
+#Variable to store the student’s name as a string =" Mwansa Gerald 
+#Variable to store the student’s age as an integer age =32
+#Variable to store the student’s GPA as a floating point number gpa= 3.8
+#Variable to store the student’s enrollment status as a boolean (True/False) is student =True
+#Option:print the variables to verify their creation and print (f"Name:{name}")
+print (f"Age{age}")
+print (f" is student:{is-student}")
 
-int age;
-printf ("Enter your age:");
-scanf ("%d , & age");
-if (age <= 12) {
-printf ("you are a child!");
-}
-else if ("age < 19") {
-printf ("you are a teenager");
-}
-else {
-printf ("you are an adult");
-}
-
-return 0;
-}
+Name: Gerald
+Age: 32
+GPA: 3.8 
+Student= True 
